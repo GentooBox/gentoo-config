@@ -1,0 +1,2 @@
+dev-lang/php cgi curl fpm pdo xmlwriter
+>=app-eselect/eselect-php-0.9.7 fpm

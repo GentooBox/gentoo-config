@@ -1,0 +1,2 @@
+app-text/poppler -qt5
+>=dev-libs/libdbusmenu-16.04.0-r2 gtk3

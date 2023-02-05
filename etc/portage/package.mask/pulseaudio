@@ -1,0 +1,7 @@
+media-sound/pulseaudio
+media-sound/pavucontrol
+media-sound/pavucontrol-qt
+media-sound/pulseaudio-ctl
+media-sound/pulseaudio-modules-bt
+net-misc/pulseaudio-dlna
+xfce-extra/xfce4-pulseaudio-plugin

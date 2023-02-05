@@ -1,0 +1,6 @@
+media-video/vlc qt5 fontconfig x265 bidi matroska libass vdpau tremor theora gstreamer faad fdk
+
+# required by @selected
+# required by @world (argument)
+>=media-libs/freetype-2.9.1-r3 harfbuzz
+>=sys-libs/zlib-1.2.13-r1 minizip

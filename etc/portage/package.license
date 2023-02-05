@@ -1,0 +1,12 @@
+net-misc/anydesk AnyDesk-TOS
+www-client/google-chrome google-chrome
+#www-client/* google-chrome
+app-editors/sublime-text Sublime
+app-emulation/virtualbox-bin PUEL
+>=www-client/opera-71.0.3770.271 OPERA-2014
+app-arch/rar RAR
+# required by x11-misc/xflux-gui-1.2.0-r1::gentoo
+# required by x11-misc/xflux-gui (argument)
+>=x11-misc/xflux-20170103 f.lux
+=www-client/vivaldi-3.5.2115.81 Vivaldi
+app-editors/vscode Microsoft-vscode

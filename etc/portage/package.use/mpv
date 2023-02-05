@@ -1,0 +1,3 @@
+# required by media-video/baka-mplayer-2.0.4::gentoo
+# # required by media-video/baka-mplayer (argument)
+media-video/mpv libmpv coreaudio drm dvd libcaca
