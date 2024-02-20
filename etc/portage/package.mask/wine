@@ -1,0 +1,11 @@
+virtual/wine
+app-eselect/eselect-wine
+app-emulation/winetricks
+app-emulation/wine-vanilla
+app-emulation/wine-staging
+app-emulation/wine-proton
+app-emulation/wine-mono
+app-emulation/wine-geck
+oapp-emulation/wine-desktop-common
+app-emulation/q4wine
+sec-policy/selinux-wine

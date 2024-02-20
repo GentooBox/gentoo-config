@@ -1,0 +1,2 @@
+media-libs/libsdl2 wayland gles2 joystick
+>=media-libs/libsdl-1.2.68 joystick

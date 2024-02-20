@@ -12,7 +12,7 @@
 #xset s off
 # turn off beep
 #xset -b
-
+clear
 #PS1='\[\033[00m\]┌─[\[\033[01;35m\]\u\[\033[00m\]]──[\033[01;34m\]\w\[\033[00;32m\]\[\033[00m\]]`echo -e $(git branch 2> /dev/null | sed -e "/^[^*]/d" -e "s/* \(.*\)/\\\033[00m──[\\\033[00;32m\1\\\033[00m]/")`\[\033[00m\] \$\n\[\033[00m\]└────╼ \[\033[00;33m\]>>\[\033[00m\] '
 
 
@@ -24,7 +24,7 @@ if [[ $- != *i* ]] ; then
     return
 fi
 
-if [ -f /usr/bin/neofetch ]; then neofetch; fi
+#if [ -f /usr/bin/neofetch ]; then neofetch; fi
 export EDITOR=vi
 #export GPGKEY=
 export PATH="$PATH:$HOME/.local/bin"

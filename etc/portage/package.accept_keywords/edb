@@ -1,0 +1,2 @@
+# move dev-util/edb-debugger dev-debug/edb-debugger
+dev-debug/edb-debugger ~amd64

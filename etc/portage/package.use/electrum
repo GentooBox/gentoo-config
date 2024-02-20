@@ -1,4 +1,4 @@
 net-misc/electrum qrcode qt5
->=dev-qt/qtmultimedia-5.15.8 widgets
->=app-arch/brotli-1.0.9-r5 python
->=media-gfx/zbar-0.23.90 v4l
+dev-qt/qtmultimedia widgets
+app-arch/brotli python
+media-gfx/zbar v4l
